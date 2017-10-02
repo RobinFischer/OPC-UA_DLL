@@ -1,0 +1,5 @@
+C:\Users\Projekte\Documents\Visual Studio 2017\Projects\Dumy\OpcUa_Hololens_client\OpcUa_Hololens_client\OpcUa_Hololens_client\bin\Debug\OpcUa_Hololens_client.dll
+C:\Users\Projekte\Documents\Visual Studio 2017\Projects\Dumy\OpcUa_Hololens_client\OpcUa_Hololens_client\OpcUa_Hololens_client\bin\Debug\OpcUa_Hololens_client.pdb
+C:\Users\Projekte\Documents\Visual Studio 2017\Projects\Dumy\OpcUa_Hololens_client\OpcUa_Hololens_client\OpcUa_Hololens_client\obj\Debug\OpcUa_Hololens_client.csprojResolveAssemblyReference.cache
+C:\Users\Projekte\Documents\Visual Studio 2017\Projects\Dumy\OpcUa_Hololens_client\OpcUa_Hololens_client\OpcUa_Hololens_client\obj\Debug\OpcUa_Hololens_client.dll
+C:\Users\Projekte\Documents\Visual Studio 2017\Projects\Dumy\OpcUa_Hololens_client\OpcUa_Hololens_client\OpcUa_Hololens_client\obj\Debug\OpcUa_Hololens_client.pdb
