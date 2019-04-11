@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Debug\netstandard2.0\Opc_Client_Hda.deps.json
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Debug\netstandard2.0\Opc_Client_Hda.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Debug\netstandard2.0\Opc_Client_Hda.pdb
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Debug\netstandard2.0\BouncyCastle.Crypto.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Debug\netstandard2.0\Opc.Ua.Client.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Debug\netstandard2.0\Opc.Ua.Core.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Debug\netstandard2.0\Opc_Client_Hda.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Debug\netstandard2.0\Opc_Client_Hda.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Debug\netstandard2.0\Opc_Client_Hda.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Debug\netstandard2.0\Opc_Client_Hda.csproj.CopyComplete
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Debug\netstandard2.0\Opc_Client_Hda.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Debug\netstandard2.0\Opc_Client_Hda.pdb

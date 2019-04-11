@@ -1,0 +1,9 @@
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Release\netstandard1.4\OpcClientHda.deps.json
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Release\netstandard1.4\OpcClientHda.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\bin\Release\netstandard1.4\OpcClientHda.pdb
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Release\netstandard1.4\OpcClientHda.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Release\netstandard1.4\OpcClientHda.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Release\netstandard1.4\OpcClientHda.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Release\netstandard1.4\OpcClientHda.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Release\netstandard1.4\OpcClientHda.dll
+C:\Users\Chris\source\repos\Opc_Client_Hda\Opc_Client_Hda\obj\Release\netstandard1.4\OpcClientHda.pdb
